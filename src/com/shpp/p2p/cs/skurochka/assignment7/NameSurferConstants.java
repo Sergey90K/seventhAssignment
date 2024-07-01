@@ -45,4 +45,10 @@ public interface NameSurferConstants {
      */
     public static final int GRAPH_MARGIN_SIZE = 20;
 
+
+    public static final int STEP_DECADE = 10;
+
+
+    public static final int DIAMETER_POINT = 4;
+
 }
